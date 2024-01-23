@@ -8,6 +8,7 @@ In this projects a user can visit the websites, registers and login to the websi
 Highlights :--
 
 The users will get a mail to their registered mail Id during:-
+
 New User Registration
 Order Successfully Placed
 The Item was out of stock while exploring but now it got available in the store
